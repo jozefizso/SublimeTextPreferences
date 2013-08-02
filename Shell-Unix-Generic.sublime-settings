@@ -1,0 +1,11 @@
+{
+	"extensions":
+	[
+		".aliases",
+		".bash_prompt",
+		".exports",
+		".extra",
+		".functions",
+		"zsh-theme"
+	]
+}
