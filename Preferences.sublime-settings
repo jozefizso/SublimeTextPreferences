@@ -6,7 +6,17 @@
 	"font_size": 14.0,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Tomorrow Color Schemes",
+		"Git",
+		"Handlebars",
+		"Vintage",
+		"Modific",
+		"nodejsLauncher",
+		"Smarty",
+		"Require Node.js Modules Helper",
+		"EditorConfig",
+		"ColorPick",
+		"HTML-CSS-JS Prettify"
 	],
 	"soda_folder_icons": true,
 	"tab_size": 2,
