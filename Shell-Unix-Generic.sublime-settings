@@ -6,6 +6,9 @@
 		".exports",
 		".extra",
 		".functions",
-		"zsh-theme"
+		"zsh-theme",
+		"zpreztorc",
+		"prompt_solar_setup",
+		"git-dir"
 	]
 }
