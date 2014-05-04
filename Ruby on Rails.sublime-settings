@@ -1,6 +1,8 @@
 {
 	"extensions":
 	[
-		"Vagrantfile"
+		"Vagrantfile",
+		"Podfile",
+		"podspec"
 	]
 }
