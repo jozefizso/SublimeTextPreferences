@@ -1,0 +1,48 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AAAPackageDev",
+		"AdvancedNewFile",
+		"Alignment",
+		"ApacheConf.tmLanguage",
+		"Chef",
+		"CoffeeScript",
+		"DashDoc",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"EncodingHelper",
+		"Git",
+		"Git Config",
+		"Grunt",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"HTML2Jade",
+		"HTML5",
+		"INI",
+		"Jade",
+		"Jade Build",
+		"LESS",
+		"Modific",
+		"Nette",
+		"nodejsLauncher",
+		"Package Control",
+		"PHP Modern",
+		"Phpcs",
+		"Plist Binary",
+		"Puppet",
+		"Require Node.js Modules Helper",
+		"SetSyntax",
+		"Smarty",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"TypeScript",
+		"VAlign",
+		"Zip Browser"
+	],
+	"repositories":
+	[
+		"https://github.com/elementalvoid/sublime-text-puppet"
+	]
+}

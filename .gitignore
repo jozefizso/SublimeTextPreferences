@@ -1,6 +1,7 @@
 ### SublimeText ###
 *.cache
-Package Control.*
+Package\ Control.*
+!Package\ Control.sublime-settings
 
 # SublimeText project files
 *.sublime-workspace
