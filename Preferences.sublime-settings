@@ -1,22 +1,22 @@
 {
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
 	"draw_white_space": "all",
 	"font_face": "Menlo",
-	"font_size": 14.0,
+	"font_size": 13.0,
 	"ignored_packages":
 	[
-		"Tomorrow Color Schemes",
 		"Git",
-		"Handlebars",
 		"Vintage",
 		"Modific",
-		"nodejsLauncher",
 		"Smarty",
-		"Require Node.js Modules Helper",
+		"Emmet",
+		"DashDoc",
 		"EditorConfig",
-		"ColorPick",
-		"HTML-CSS-JS Prettify"
+		"Phpcs",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"INI"
 	],
 	"soda_folder_icons": true,
 	"tab_size": 2,
